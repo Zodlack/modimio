@@ -82,7 +82,7 @@ http://localhost:8080
 - `controllers/SiteController.php` - контроллер для отображения статистики
 - `commands/ParseLogsController.php` - команда для парсинга логов
 - `views/site/index.php` - представление с графиками и таблицей
-- `migrations/m240101_000001_create_log_entries_table.php` - миграция БД
+- `migrations/create_log_entries_table.php` - миграция БД
 
 ## Возможные проблемы
 
