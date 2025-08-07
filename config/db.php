@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=yii2basic',
+    'dsn' => 'mysql:host=localhost;dbname=modimio_nginx_logs',
     'username' => 'root',
-    'password' => '',
+    'password' => 'Uzumymw1052261%',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
